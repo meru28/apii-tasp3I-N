@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import './assets/styles/index.css';
+import './assets/css/fontello-8cf71fd6/css/fontello.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

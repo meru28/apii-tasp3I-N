@@ -1,0 +1,77 @@
+@import './palette.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+
+.bg-section-1 {
+  background-image: url("../../images/diego-gutierrez-NRn5rrBnH8w-unsplash\ 11.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: -92px;
+}
+
+.bg-section-2 {
+  background-image: url("../../images/Rectangle 13.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bg-section-3 {
+  background-image: url("../../images/Rectangle 11.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bg-section-4 {
+  background-image: url("../../images/ifan-bima-B04Xpnu5JQ4-unsplash 1 (1).png");
+  height: 68em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.bg-section-5 {
+  background-image: url("../../images/ifan-bima-B04Xpnu5JQ4-unsplash 1 (1).png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+.bg-section-6 {
+  background-image: url("../../images/Whangaehu (11).png"), url("../../images/Whangaehu.png");
+  background-position: left -1px, right bottom;
+  background-size: contain, contain;
+  background-repeat: no-repeat;
+}
+
+.bg-section-7 {
+  background-image: url("../../images/hugo-matilla-EFuCATqfblI-unsplash 1 (1).png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+.numberCircle {
+  border-radius: 50%;
+  width: 56px;
+  height: 56px;
+  padding: 8px;
+  text-align: center;
+  color: white;
+}
+
+@media (min-width: 1024px) {
+  .bg-section-1 {
+    background-image: url("../../images/diego-gutierrez-NRn5rrBnH8w-unsplash 1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+}

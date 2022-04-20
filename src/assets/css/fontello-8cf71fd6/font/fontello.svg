@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="up-open" unicode="&#xe800;" d="M939 107l-92-92q-11-10-26-10t-25 10l-296 297-296-297q-11-10-25-10t-25 10l-93 92q-11 11-11 26t11 25l414 414q11 10 25 10t25-10l414-414q11-11 11-25t-11-26z" horiz-adv-x="1000" />
+
+<glyph glyph-name="left-open" unicode="&#xe801;" d="M654 682l-297-296 297-297q10-10 10-25t-10-25l-93-93q-11-10-25-10t-25 10l-414 415q-11 10-11 25t11 25l414 414q10 11 25 11t25-11l93-93q10-10 10-25t-10-25z" horiz-adv-x="714.3" />
+
+<glyph glyph-name="right-open" unicode="&#xe802;" d="M618 361l-414-415q-11-10-25-10t-25 10l-93 93q-11 11-11 25t11 25l296 297-296 296q-11 11-11 25t11 25l93 93q10 11 25 11t25-11l414-414q10-11 10-25t-10-25z" horiz-adv-x="714.3" />
+
+<glyph glyph-name="icon-play" unicode="&#xe889;" d="M866 339l-824-458c-9-5-17-6-24-2-7 4-10 12-10 23v912c0 11 3 19 10 23 7 4 15 3 24-2l824-458c9-5 14-12 14-19 0-7-5-14-14-19z" horiz-adv-x="889" />
+
+<glyph glyph-name="google" unicode="&#xe892;" d="M962 436h-458c0-48 0-143 0-191h265c-10-47-46-114-97-147 0 0 0 0 0 0-68-45-157-55-223-42-104 21-186 96-220 192 1 0 1 1 1 1-21 60-21 139 0 187h0c27 87 111 167 215 189 84 17 178-2 248-67 9 9 128 125 136 134-237 215-616 140-758-138h0c0 0 0 0-1 0-70-137-67-297 1-427 0 0-1 0-1 0 62-119 174-211 308-246 144-37 326-12 448 99 0 0 0 0 0 0 104 93 168 252 136 456z" horiz-adv-x="1000" />
+
+<glyph glyph-name="facebook" unicode="&#xf30c;" d="M500 644l-142 0q-14 0-25-15t-11-37l0-102 178 0 0-148-178 0 0-442-170 0 0 442-152 0 0 148 152 0 0 86q0 94 59 159t147 65l142 0 0-156z" horiz-adv-x="500" />
+
+<glyph glyph-name="linkedin" unicode="&#xf318;" d="M204 698q0-40-29-68t-75-28q-44 0-72 28t-28 68q0 42 28 69t74 27 73-27 29-69z m-198-790l0 618 192 0 0-618-192 0z m306 420q0 86-4 198l166 0 10-86 4 0q60 100 190 100 100 0 161-67t61-199l0-366-192 0 0 342q0 134-98 134-70 0-98-72-6-12-6-48l0-356-194 0 0 420z" horiz-adv-x="900" />
+</font>
+</defs>
+</svg>
